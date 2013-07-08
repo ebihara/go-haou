@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("私が覇王です")
+	fmt.Println("私が覇王である")
 }
