@@ -11,5 +11,5 @@ $ go get github.com/nise-nabe/go-haou/haou
 
 ```
 $ haou
-私が覇王です
+私が覇王である
 ```
